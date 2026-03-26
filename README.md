@@ -11,7 +11,7 @@ A robust Node.js and Express backend utilizing JWT for secure authentication and
 A protected internal dashboard with role-based access control that allows administrators to manage the digital menu via CRUD operations and track/update incoming orders through a real-time management system.
 
 ## Central Documentation
-The Business Requirements Document (BRD) is maintained in the Server-Side repository to ensure a single source of truth.
+The Business Requirements Document (BRD) is maintained to ensure a single source of truth.
   - Business Requirements Document - LINK
 
 Related Repositories
