@@ -25,7 +25,6 @@ Through a mock discovery phase, I identified two primary user personas with dist
     - Secure all passwords via Bcrypt hashing; ensure no plain-text storage in the database.
     - Ensure automatic JWT authentication and redirection to the Menu page upon successful registration.
 
- 
 **2.	Login**
 -	User Story
     - As a returning customer, I want to log in using my credentials, so that I can quickly access my saved payment methods and place an order.
