@@ -20,7 +20,7 @@ Through a mock discovery phase, I identified two primary user personas with dist
 -	User Story 
     - As a new customer, I want to create an account using my email address and a unique password, so that I can save my delivery preferences and order history.
 -	Acceptance Criteria
-    - Validate that the email is in a proper format (e.g., name@domain.com) and that the password meets a minimum length requirement (e.g., 8 characters).
+    - Validate that the email is in a proper format (e.g., name@domain[.]com) and that the password meets a minimum length requirement (e.g., 8 characters).
     - Verify email uniqueness in MongoDB and return a clear error message if the account already exists.
     - Secure all passwords via Bcrypt hashing; ensure no plain-text storage in the database.
     - Ensure automatic JWT authentication and redirection to the Menu page upon successful registration.
