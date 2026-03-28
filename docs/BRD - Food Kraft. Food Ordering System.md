@@ -1,6 +1,6 @@
 **Project Name:** Food Kraft. Food Ordering System
 
-**Project Type:** End-to-End E-commerce Solution
+**Project Type:** Web-Based Application Development
 
 **Role:** Business Analyst & Full-Stack Developer
 
