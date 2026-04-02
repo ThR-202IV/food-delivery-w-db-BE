@@ -1,4 +1,4 @@
-**Project Name:** Food Kraft. Food Ordering System
+**Project Name:** Food Kraft. 
 
 **Project Type:** Web-Based Application Development
 
