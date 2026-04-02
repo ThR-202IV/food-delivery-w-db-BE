@@ -1,4 +1,4 @@
-## Project Overview: Food Kraft., a Food Ordering System
+## Project Overview: Food Kraft.
 
 This repository serves as the core engine for Food Kraft., a Food Ordering & Management System. To ensure a clean separation of concerns, the project is divided into three specialized modules:
 
